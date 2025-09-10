@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tasmiyah Collection</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🌸 Tasmiyah Collection 🌸</h1>
+    <p>Exclusive Ladies Suits</p>
+  </header>
+
+  <section class="products">
+    <div class="product">
+      <img src="images/suit1.jpg" alt="Suit 1">
+      <h2>Royal Blue Suit</h2>
+      <p>Price: ₹1,999</p>
+    </div>
+
+    <div class="product">
+      <img src="images/suit2.jpg" alt="Suit 2">
+      <h2>Elegant Pink Suit</h2>
+      <p>Price: ₹2,499</p>
+    </div>
+  </section>
+
+  <footer>
+    <a class="btn call" href="tel:+918383076199">📞 Call Us</a>
+    <a class="btn whatsapp" href="https://wa.me/9711394824">💬 WhatsApp</a>
+  </footer>
+</body>
+</html>
